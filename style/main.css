@@ -8,7 +8,10 @@
     font-family: "Montserrat", sans-serif;
 }
 
-
+section{
+    background: rgb(115, 128, 249);
+    background: linear-gradient(131deg, rgba(122,135,251,1) 0%, rgba(109,122,247,1) 49%, rgb(132, 249, 255) 100%);
+}
 
 section .container{
     width: 100%;
